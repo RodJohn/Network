@@ -52,5 +52,8 @@ A5）帧内容（负载）内容：
 
 
 
+SUBSCRIBE 
+destination:/marco
+
 
 STOMP服务器可以使用MESSAGE命令向所有用户广播消息
