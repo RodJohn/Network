@@ -26,6 +26,8 @@ HTTPS（全称：Hypertext Transfer Protocol over Secure Socket Layer），是�
 https所用的端口号是443
 
 
+
+
 3.4.2 https的实现原理
 
 有两种基本的加解密算法类型：
